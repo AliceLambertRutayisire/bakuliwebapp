@@ -1,0 +1,153 @@
+.signInRootRootRoot {
+    height: 955px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 128px 429px 128px 428px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .flexColumn {
+    width: 583px;
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .text1 {
+    width: 583px;
+    align-self: stretch;
+    color: #32580d;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Manrope;
+    line-height: 72px;
+    text-align: center;
+  }
+  .flexColumn1 {
+    gap: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .flexColumn2 {
+    gap: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: stretch;
+  }
+  .flexColumn3 {
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .flexColumn4 {
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: stretch;
+  }
+  .emailAddress {
+    width: 384px;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 11px 15px;
+    color: #414157;
+    font-size: 18px;
+    font-family: Manrope;
+    line-height: 28px;
+    white-space: nowrap;
+    border-width: 1px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #414157;
+  }
+  .passwordField {
+    width: 384px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 11px 15px;
+    border-width: 1px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #414157;
+    background-color: #ffffff;
+  }
+  .text2 {
+    color: #414157;
+    font-size: 18px;
+    font-family: Manrope;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  .vuesaxlineareye {
+    width: 24px;
+    height: 24px;
+  }
+  .text3 {
+    color: #4c8414;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Manrope;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  .button1 {
+    width: 384px;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    padding-top: 12px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Manrope;
+    line-height: 28px;
+    white-space: nowrap;
+    border-width: 0px;
+    border-radius: 12px;
+    box-sizing: content-box;
+    background-color: rgba(76, 132, 21, 0.5);
+    cursor: pointer;
+  }
+  .button1:hover {
+    opacity: 70%;
+  }
+  .flexRow {
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .text4 {
+    color: #16161d;
+    font-size: 18px;
+    font-family: Inter;
+    white-space: nowrap;
+  }
+  .text5 {
+    color: #4c8414;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Inter;
+    white-space: nowrap;
+  }
+  

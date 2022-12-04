@@ -1,0 +1,919 @@
+.foodLogPageRootRootRoot {
+    height: 1342px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .flexColumn {
+    width: 1440px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 0px 48px 0px;
+  }
+  .navigationMenu {
+    width: 1296px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 72px;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+      0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+  }
+  .bakuliNewLogo {
+    width: 47.9px;
+    height: 48px;
+    position: relative;
+  }
+  .flexRow {
+    position: relative;
+    gap: 48px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .text3 {
+    align-self: stretch;
+    color: #4c8414;
+    font-size: 18px;
+    font-family: Inter;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  .image2 {
+    width: 80px;
+    height: 8px;
+    left: 935px;
+    top: 72px;
+    position: absolute;
+  }
+  .textfieldWithIcon {
+    width: 493px;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: center;
+    margin: 0px 72px 32px 0px;
+    padding: 11px 15px;
+    border-width: 1px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #414157;
+    background-color: #ffffff;
+  }
+  .search {
+    color: #414157;
+    font-size: 18px;
+    font-family: Manrope;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  .flexColumn1 {
+    width: 1024px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 208px;
+  }
+  .flexColumn2 {
+    left: 1482px;
+    top: 1440px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .whiteFlexColumn {
+    width: 698px;
+    height: 2167px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffffff;
+    box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+  .flexColumn3 {
+    width: 698px;
+    gap: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+    align-items: flex-end;
+    margin: 0px 0px 94.7px 0px;
+  }
+  .flexColumn4 {
+    width: 698px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+  }
+  .image1 {
+    height: 0px;
+    left: -26695.5px;
+    top: -17701.5px;
+    position: absolute;
+  }
+  .cover {
+    width: 359px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 41.4px 168px 37.8px 172px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .image3 {
+    height: 0px;
+    left: -26695.5px;
+    top: -17701.5px;
+    position: absolute;
+    mix-blend-mode: multiply;
+  }
+  .flexColumn5 {
+    height: 270px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .flexRow1 {
+    width: 359px;
+    height: 71.5px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0px 0px 6.63px 0px;
+  }
+  .sunglowRectangle {
+    width: 357px;
+    height: 55.9px;
+    left: -0.72px;
+    top: 12.7px;
+    position: absolute;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffe500;
+  }
+  .flexColumn6 {
+    width: 56.7px;
+    height: 71.5px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 19.7px 0px 0px;
+  }
+  .fuchsiaRectangle {
+    width: 53.8px;
+    height: 55.9px;
+    left: 0px;
+    top: 12.7px;
+    position: absolute;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #d99bff;
+  }
+  .pinkFlamingoRectangle {
+    width: 53.8px;
+    height: 12px;
+    position: relative;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #da73ff;
+  }
+  .salmonRectangle {
+    width: 53.8px;
+    height: 55.9px;
+    left: 0px;
+    top: 12.7px;
+    position: absolute;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffa3a2;
+  }
+  .bittersweetRectangle {
+    width: 53.8px;
+    height: 12px;
+    position: relative;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ff7474;
+  }
+  .cornflowerRectangle {
+    width: 53.8px;
+    height: 55.9px;
+    left: 0px;
+    top: 12.7px;
+    position: absolute;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #bde3ff;
+  }
+  .blueBellRectangle {
+    width: 53.8px;
+    height: 12px;
+    position: relative;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #85b6ff;
+  }
+  .flexColumn9 {
+    width: 56px;
+    height: 71.5px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .grannySmithAppleRectangle {
+    width: 53.8px;
+    height: 55.9px;
+    left: 0px;
+    top: 12.7px;
+    position: absolute;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #9feeb6;
+  }
+  .fernRectangle {
+    width: 53.8px;
+    height: 12px;
+    position: relative;
+    margin: 0px -0.72px 0px 0px;
+    border-width: 1.45px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #4ecb71;
+  }
+  .flexRow2 {
+    width: 359px;
+    height: 58.8px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0px 0px 6.63px 0px;
+  }
+  .flexRow3 {
+    width: 359px;
+    height: 58.8px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0px 0px 9.33px 0px;
+  }
+  .flexRow4 {
+    width: 359px;
+    height: 58.1px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .flexColumn10 {
+    width: 576px;
+    gap: 0.27px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0px 56px 0px 0px;
+  }
+  .title1 {
+    width: 572px;
+    font-size: 64px;
+    font-weight: 700;
+    font-family: Inter;
+    line-height: 88px;
+    letter-spacing: -1.41px;
+  }
+  .description {
+    width: 576px;
+    align-self: stretch;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Inter;
+    line-height: 36px;
+    white-space: pre-wrap;
+    letter-spacing: -0.46px;
+  }
+  .flexColumn11 {
+    height: 911px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 0px 96.3px 0px;
+  }
+  .title4 {
+    width: 572px;
+    align-self: flex-start;
+    margin: 0px 0px 45.3px 0px;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Inter;
+    line-height: 72px;
+    letter-spacing: -1.06px;
+  }
+  .flexColumn12 {
+    width: 333px;
+    gap: 7.32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 11px 0px 10.7px 0px;
+  }
+  .title5 {
+    width: 333px;
+    align-self: stretch;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Inter;
+    line-height: 54px;
+    letter-spacing: -0.68px;
+  }
+  .title6 {
+    width: 328px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Inter;
+    letter-spacing: -0.46px;
+  }
+  .greenFlexColumn {
+    height: 224px;
+    left: -252px;
+    top: -3px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 19px 0px 261px;
+    background-color: #0fa958;
+  }
+  .flexColumn15 {
+    width: 86.4px;
+    height: 66px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0px 24px 0px 180px;
+    border-width: 3px;
+    border-radius: 8px 0px 0px 8px;
+    border-style: solid;
+    border-color: #000000;
+    box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .element3 {
+    height: 0px;
+    left: -27125.5px;
+    top: -18732.77px;
+    position: absolute;
+    background-size: cover;
+    background-image: url("undefined");
+  }
+  .flexColumn16 {
+    width: 71.3px;
+    height: 93.6px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px 0px 0px 15.2px;
+  }
+  .yellowSquare {
+    width: 65.3px;
+    height: 65.3px;
+    left: 0px;
+    top: 24.4px;
+    position: absolute;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffea79;
+    box-shadow: -2px 2px 0px 0px rgba(0, 0, 0, 0.25);
+    transform: rotate(-13.71deg);
+    transform-origin: 0px 0px;
+  }
+  .yellowSquare1 {
+    width: 65.3px;
+    height: 65.3px;
+    left: 6.87px;
+    top: 13.1px;
+    position: absolute;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffea79;
+    box-shadow: -2px 2px 0px 0px rgba(0, 0, 0, 0.25);
+    transform: rotate(-5.63deg);
+    transform-origin: 0px 0px;
+  }
+  .yellowSquare2 {
+    width: 65.3px;
+    height: 65.3px;
+    position: relative;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffea79;
+    box-shadow: -2px 2px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+  .flexColumn17 {
+    gap: 9.77px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-end;
+    margin: 0px 0px 36.2px 0px;
+  }
+  .flexColumn18 {
+    width: 116px;
+    height: 218px;
+    position: relative;
+    gap: 59.4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 102px 0px 0px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    overflow: hidden;
+  }
+  .sunglowFlexColumn {
+    width: 427px;
+    height: 224px;
+    left: -3px;
+    top: -3px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 0px 97px 0px 52px;
+    background-color: #ffc700;
+  }
+  .flexColumn19 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+    margin: 0px 0px 30px 0px;
+  }
+  .flexColumn20 {
+    width: -160px;
+    height: 62px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 160px;
+  }
+  .whiteFlexRow {
+    width: 120px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 13px 17px 10px 17px;
+    border-width: 3px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffffff;
+    box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+  .blackRectangle {
+    width: 16px;
+    height: 3px;
+    align-self: flex-start;
+    margin: 14px 0px 0px 0px;
+    background-color: #000000;
+  }
+  .text6 {
+    width: 65px;
+    height: 33px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Whyte;
+  }
+  .flexRow7 {
+    width: 409px;
+    height: 75.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: stretch;
+    align-items: flex-start;
+    margin: 0px 0px 28.4px 0px;
+    padding: 0px 0px 0px 18.4px;
+  }
+  .flexColumn21 {
+    width: 63px;
+    height: 40.4px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 12.6px 0px 12.6px 75.6px;
+  }
+  .image4 {
+    height: 0px;
+    left: -27256.5px;
+    top: -19066.77px;
+    position: absolute;
+  }
+  .flexColumn23 {
+    width: 63px;
+    height: 40.4px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-self: flex-end;
+    align-items: flex-start;
+    padding: 12.6px 0px 12.6px 75.6px;
+  }
+  .image5 {
+    height: 0px;
+    left: -27526.5px;
+    top: -19076.77px;
+    position: absolute;
+  }
+  .blackRectangle7 {
+    width: 63px;
+    height: 3px;
+    margin: 0px 150px 10px 0px;
+    background-color: #000000;
+  }
+  .blackRectangle8 {
+    width: 37px;
+    height: 3px;
+    margin: 0px 176px 0px 0px;
+    background-color: #000000;
+  }
+  .flexColumn25 {
+    width: 39px;
+    position: relative;
+    gap: 4.37px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 77px 0px 0px;
+  }
+  .flexColumn26 {
+    width: -39px;
+    height: 46.6px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+    align-items: center;
+    padding: 0px 39px;
+  }
+  .dotGrid {
+    height: 0px;
+    left: -27113.5px;
+    top: -18941.77px;
+    position: absolute;
+    background-size: cover;
+    background-image: url("undefined");
+  }
+  .flexColumn27 {
+    width: 63px;
+    height: 40.4px;
+    position: relative;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin: 0px -327px 0px 0px;
+    padding: 12.6px 0px 12.6px 75.6px;
+  }
+  .image6 {
+    height: 0px;
+    left: -27416.5px;
+    top: -18946.77px;
+    position: absolute;
+  }
+  .flexColumn29 {
+    width: 63px;
+    height: 40.4px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin: 0px 0px 0px -99.58px;
+    padding: 12.6px 0px 12.6px 75.6px;
+  }
+  .image7 {
+    height: 0px;
+    left: -27089.5px;
+    top: -19016.77px;
+    position: absolute;
+  }
+  .flexColumn31 {
+    width: -116px;
+    height: 42px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 116px;
+  }
+  .flexColumn32 {
+    width: 63px;
+    height: 40.4px;
+    left: 534px;
+    top: 0px;
+    position: absolute;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 12.6px 0px 12.6px 75.6px;
+  }
+  .image8 {
+    height: 0px;
+    left: -27723.5px;
+    top: -19141.77px;
+    position: absolute;
+  }
+  .flexColumn34 {
+    width: 63px;
+    height: 40.4px;
+    left: -22.58px;
+    top: 5px;
+    position: absolute;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 12.6px 0px 12.6px 75.6px;
+  }
+  .image9 {
+    height: 0px;
+    left: -27166.5px;
+    top: -19146.77px;
+    position: absolute;
+  }
+  .flexRow8 {
+    gap: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-end;
+    align-items: center;
+  }
+  .flexColumn36 {
+    gap: 14.9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+    margin: 7px 0px 0px 0px;
+  }
+  .title8 {
+    display: contents;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Inter;
+    letter-spacing: -0.46px;
+  }
+  .title9 {
+    display: contents;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Inter;
+    white-space: pre-wrap;
+    letter-spacing: -0.46px;
+  }
+  .purpleHeartFlexColumn {
+    height: 200px;
+    left: -3px;
+    top: -3px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 12px 364px 12px 46px;
+    background-color: #7568f6;
+  }
+  .purpleHeartFlexColumn1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 14px 45px 13px 45px;
+    border-width: 3px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #9747ff;
+    box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+  .text7 {
+    width: 70px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Whyte;
+    text-align: center;
+    letter-spacing: -0.46px;
+  }
+  .flexColumn39 {
+    width: -572px;
+    height: 236px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+    margin: 0px 0px 0px 60px;
+    padding: 0px 572px;
+  }
+  .title {
+    width: 572px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Inter;
+    line-height: 72px;
+    letter-spacing: -1.06px;
+  }
+  .flexColumn40 {
+    width: -252px;
+    height: 169px;
+    left: 2221px;
+    top: 1516px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 252px;
+  }
+  .text1 {
+    width: 229px;
+    left: 11px;
+    top: 10.2px;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Inter;
+    line-height: 24px;
+    letter-spacing: -0.18px;
+  }
+  .arrow1 {
+    width: -117px;
+    height: 117px;
+    left: 135px;
+    top: 52px;
+    position: absolute;
+    padding: 0px 117px;
+  }
+  .whiteFlexColumn1 {
+    position: relative;
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 32px 48px 48px 48px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+      0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+  }
+  .flexRow9 {
+    width: 928px;
+    gap: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .flexRow11 {
+    gap: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .flexRow12 {
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .text8 {
+    color: #16161d;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: Manrope;
+    line-height: 42px;
+    white-space: nowrap;
+  }
+  .element2 {
+    color: rgba(76, 132, 21, 0.5);
+    font-size: 28px;
+    font-family: Manrope;
+    line-height: 42px;
+    white-space: pre-wrap;
+  }
+  .flexColumn41 {
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .flexRow13 {
+    width: 928px;
+    gap: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .flexRow14 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
+  .flexColumn42 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .text14 {
+    width: 135px;
+    height: 96px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 11px 48px 11px 11px;
+    color: #16161d;
+    font-size: 12px;
+    font-family: Manrope;
+    line-height: 18px;
+    white-space: nowrap;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #f0f0f4;
+    overflow: hidden;
+  }
+  

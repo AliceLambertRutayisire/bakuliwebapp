@@ -1,0 +1,243 @@
+.logOutRootRootRoot {
+  width: 1440px;
+  height: 814px;
+  position: relative;
+  gap: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.navigationMenu {
+  width: 1296px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 72px;
+  background-color: #ffffff;
+  box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+.bakuliNewLogo {
+  width: 47.9px;
+  height: 48px;
+  position: relative;
+}
+.flexRow {
+  position: relative;
+  gap: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.text4 {
+  align-self: stretch;
+  color: #4c8414;
+  font-size: 18px;
+  font-family: Inter;
+  line-height: 28px;
+  white-space: nowrap;
+}
+.image1 {
+  width: 72px;
+  height: 8px;
+  left: 1225px;
+  top: 72px;
+  position: absolute;
+}
+.flexColumn {
+  position: relative;
+  gap: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: center;
+}
+.whiteFlexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 24px 16px 24px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+.line {
+  width: 808px;
+  height: 1px;
+  align-self: stretch;
+}
+.toggleButton {
+  width: 48px;
+  height: 24px;
+  padding: 0px;
+  border-width: 0px;
+  box-sizing: content-box;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://file.rendit.io/n/21r5JvLbHIqN27s5u2My.svg");
+  cursor: pointer;
+}
+.toggleButton:hover {
+  opacity: 70%;
+}
+.whiteFlexColumn1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 24px 8px 24px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+.line1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: stretch;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/rMsQUlvb9v2w3prA6n5D.svg");
+}
+.line2 {
+  width: 808px;
+  height: 1px;
+}
+.deleteAccount1 {
+  color: #16161d;
+  font-size: 18px;
+  font-family: Manrope;
+  line-height: 28px;
+  white-space: pre-wrap;
+}
+.blackFlexColumn {
+  height: 686px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 64px 514px;
+  background-color: rgba(22, 22, 29, 0.4);
+  overflow: hidden;
+}
+.dialogBox {
+  gap: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 32px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: 0px 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+.flexColumn3 {
+  gap: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.flexRow2 {
+  width: 348px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.passwordResetLink {
+  color: #16161d;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: Manrope;
+  line-height: 36px;
+  white-space: nowrap;
+}
+.text7 {
+  width: 348px;
+  color: #16161d;
+  font-size: 18px;
+  font-family: Manrope;
+  line-height: 28px;
+}
+.flexColumn4 {
+  gap: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.flexRow3 {
+  gap: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.button1 {
+  width: 134px;
+  gap: 10px;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  padding-top: 11px;
+  padding-right: 15px;
+  padding-bottom: 11px;
+  padding-left: 15px;
+  color: #4c8414;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Manrope;
+  line-height: 28px;
+  white-space: nowrap;
+  border-width: 0px;
+  border-radius: 12px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-style: solid;
+  border-color: #4c8414;
+  box-sizing: content-box;
+  background: none;
+  cursor: pointer;
+}
+.button2 {
+  width: 134px;
+  gap: 10px;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  padding-top: 12px;
+  padding-right: 16px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Manrope;
+  line-height: 28px;
+  white-space: nowrap;
+  border-width: 0px;
+  border-radius: 12px;
+  box-sizing: content-box;
+  background-color: #cc0f03;
+  box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.button2:hover {
+  opacity: 70%;
+}

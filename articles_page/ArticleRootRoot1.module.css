@@ -1,0 +1,147 @@
+.articlePageRootRootRoot {
+    width: 1440px;
+    height: 1173px;
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .navigationMenu {
+    width: 1296px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: stretch;
+    align-items: center;
+    padding: 16px 72px;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+      0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+  }
+  .bakuliNewLogo {
+    width: 47.9px;
+    height: 48px;
+    position: relative;
+  }
+  .flexRow {
+    position: relative;
+    gap: 48px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .text3 {
+    align-self: stretch;
+    color: #4c8414;
+    font-size: 18px;
+    font-family: Inter;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  .image1 {
+    width: 116px;
+    height: 8px;
+    left: 1062px;
+    top: 72px;
+    position: absolute;
+  }
+  .textButton {
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    align-items: center;
+    margin: 0px 0px 0px 72px;
+    padding: 0px;
+    padding-top: 12px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    border-width: 0px;
+    border-radius: 12px;
+    box-sizing: content-box;
+    background: none;
+    cursor: pointer;
+  }
+  .textButton:hover {
+    opacity: 70%;
+  }
+  .image2 {
+    width: 20px;
+    height: 20px;
+  }
+  .button1 {
+    color: #4c8414;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Manrope;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  .articleComponent {
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 32px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+      0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+  }
+  .flexRow1 {
+    width: 1012px;
+    gap: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .flexColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .articleTitle {
+    align-self: stretch;
+    color: #16161d;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Manrope;
+    line-height: 30px;
+    white-space: nowrap;
+    letter-spacing: 0.1px;
+  }
+  .flexRow2 {
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .image3 {
+    width: 4px;
+    height: 4px;
+  }
+  .text5 {
+    color: #575774;
+    font-size: 12px;
+    font-family: Manrope;
+    line-height: 18px;
+    white-space: nowrap;
+  }
+  .paragraph {
+    width: 1012px;
+    color: #16161d;
+    font-size: 18px;
+    font-family: Manrope;
+    line-height: 28px;
+  }
+  
